@@ -1,0 +1,251 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p {
+    margin-left: 20px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
+
+.movie_text {
+    margin-left: 10px;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#science_book {
+    width: 391px;
+    height: 499px;
+}
+
+#coco_m {
+    width: 455px;
+    height: 674px;
+}
+
+#marqueeStyle{
+  width:100%px;
+  direction: right;
+  height: 27px;
+  color: beige;
+  font-size: 120%;
+  background-color: cornflowerblue;
+}
+
+#science1_book {
+    width: 391%;
+    height: 499%;
+}
+
+#matilda1_book {
+    width: 391px;
+    height: 263px;
+}
+
+#matilda_book {
+    width: 391px;
+    height: 499px;
+}
+
+#baby_sitter_m {
+    width: 455px;
+    height: 674px;
+}
+
+#scroll {
+    float: right;
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+    z-index: 10;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 15px;
+}
+
+.contact3 {
+    display: inline-block;
+    border-left: 2px solid;
+    margin-top: 25px;
+    width: 47%;
+}
+
+.submit_button {
+    background-color: white;
+    /* Green */
+    border: none;
+    color: black;
+    padding: 6px 28px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.submit_button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+carousel-content{
+    height: 850px;
+    width:50px;
+}
+.size{
+    height: 320px;
+    width:200px;
+}
+  
+.previous_button
+{
+    margin-right: 20px;
+    background-color: #f1f1f1;
+    color: black;
+    padding: 8px 16px;
+    box-shadow: 5px 5px #888888;
+    border:none;
+}
+
+.next_button
+{
+    margin-left: 20px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    box-shadow: 5px 5px #888888;
+    border:none;
+}
+
+#myCarousel
+{
+    margin-bottom: 70px;
+    width: 100%;
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+#myCarouse2
+{
+    width: 100%;
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.contact3 {
+    display: inline-block;
+    border-left: 2px solid;
+    margin-top: 25px;
+    width: 47%;
+}
